@@ -1,9 +1,8 @@
 ## Hi there 👋
-<p>My name is Brenda Remess.  I am a computer science teacher at<a src="https://lanetech.org/">Lane Tech</a></p> 
+<p>My name is Brenda Remess.  I am a computer science teacher at .<a src="https://lanetech.org/">Lane Tech</a></p> 
 img<src="" alt=School Logo>
 
-<p>You can reach me at BRemess@cps.edu
-</p>
+<p>You can reach me at BRemess@cps.edu</p>
 <!--
 **bremess/bremess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

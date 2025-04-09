@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is ** Brenda Remess**.  I am a computer science teacher at[ Lane Tech High School](https://lanetech.org/). 
+![Lane tech Logo](https://lanetech.org/wp-content/themes/lanetechneo/assets/media/lt-logo-full.svg)
+You can reach me at BRemess@cps.edu
 
 <!--
 **bremess/bremess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

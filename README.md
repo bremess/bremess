@@ -1,6 +1,11 @@
-B. Remess
-Computer Science Teacher
-![plot](assets/pneuroplausible.jpeg)
+**B. Remess**
+<br>
+<br>
+![plot](./assets/neuroplausible.jpeg)
+<br>
+**Computer Science Teacher**
+
+
 
 <!--
 **bremess/bremess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

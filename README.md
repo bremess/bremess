@@ -1,6 +1,7 @@
-## Hi there 👋
-My name is Brenda Remess.  I am a computer science teacher at Lane Tech ["https://lanetech.org/"]
-<p>You can reach me at BRemess@cps.edu</p>
+B. Remess
+Computer Science Teacher
+![plot](assets/pneuroplausible.jpeg)
+
 <!--
 **bremess/bremess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

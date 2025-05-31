@@ -7,7 +7,6 @@
 <br>
 <h1>Computer Science Teacher</h1>
 
-
 <p><b>Pronouns:</b> She, Her</p>
 <p><b>Reach me at:</b> BRemess@cps.edu </p>
 

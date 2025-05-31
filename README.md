@@ -1,7 +1,7 @@
 
 <br>
 <br>
-<h1> Brenda R. P. </h1>
+<h1> Brenda  P. </h1>
 
 ![plot](./assets/neuroplausible.jpeg)
 <br>
